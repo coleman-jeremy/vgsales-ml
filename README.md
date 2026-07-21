@@ -5,7 +5,7 @@ A machine learning project that uses a Decision Tree Regressor to predict global
 ## Dataset
 
 Video Game Sales from Kaggle  
-https://www.kaggle.com/datasets/gregorut/videogamesales
+https://www.kaggle.com/datasets/kedokedokedo/vgsales
 
 ## Files
 
